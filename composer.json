@@ -1,5 +1,5 @@
 {
-    "name": "dzarezenko/poloniex-api",
+    "name": "naroga/poloniex-api",
     "description": "PHP wrapper for the Poloniex API.",
     "type": "library",
     "keywords": ["poloniex", "api"],
